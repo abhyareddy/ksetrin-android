@@ -23,6 +23,8 @@
 
 🌾 Location of nearest Agro supplies stores
 
+🌾 Reminders
+
 ## Face of Ksetrin 
 🌾 Here's how the app looks,
 ![Screenshot_20220329-205357_Lawnchair](https://user-images.githubusercontent.com/84061738/160849975-8a6a5dfd-e69c-452b-9d80-7519def69b3c.png)
