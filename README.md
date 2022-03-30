@@ -16,8 +16,11 @@
 
 ## Ksetrin currently provides
 🌾 Weather Forecast
+
 🌾 Agro related News
+
 🌾 Location of nearest water bodies
+
 🌾 Location of nearest Agro supplies stores
 
 ## Face of Ksetrin 
