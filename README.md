@@ -1,6 +1,5 @@
 # KSETRIN
-![ICON-256](https://user-images.githubusercontent.com/84061738/160848720-a10d6469-ff90-4398-897b-b72b0e28bb83.png)
-
+![ICON-256](https://user-images.githubusercontent.com/84061738/160870966-70f33a17-d687-43d9-a797-aec56e1cd9f3.png)
 🌾 Kstetrin is an Android based app which primarily aims to help "farmers", who it literally translates to.
 
 ## Installation
